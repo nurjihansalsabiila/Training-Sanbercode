@@ -1,5 +1,5 @@
 # Training-Sanbercode
-Penggunaan bahasa Python dengan menggunakan notebook Jupyter dalam analisis data dan machine learning.
-Python-versi 3.11.4.
-Data yang digunakan telah tercantum di setiap file tugas.
-Expected result adalah output yang diinginkan dari kode yang dieksekusi. Dengan demikian, bagaimana langkah-langkah yang perlu diambil untuk memastikan bahwa output dari kode akan sesuai dengan Expected result.
+Penerapan bahasa Python menggunakan tool Jupyter notebook.
+Versi Python yang digunakan dalam konteks ini adalah 3.11.4.
+Data yang digunakan diidentifikasi dan dicantumkan di setiap berkas tugas.
+Tujuan dari setiap kode yang dieksekusi adalah mencapai hasil yang diharapkan (Expected Result).
